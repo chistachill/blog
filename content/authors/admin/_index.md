@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Elizaveta Popova
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Elizaveta
+last_name: Popova
 
 # Status emoji
 status:
@@ -14,34 +14,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: People's Friendship University of Russia RUDN
+    url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include videomaking, content creating and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Videomaking
+  - Programming
+  - Content creating
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Math and mechanics
+      institution: RUDN University
+      year: 2022
+    - course: Analytics
+      institution: Yandex School
+      year: 2023
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Elisaveta Popova is a math student at RUDN university. As a math student at RUDN University, she has had the opportunity to delve deep into the world of mathematics and explore the fascinating intricacies of this subject. The faculty at RUDN are highly experienced and knowledgeable, and has helped she develop a strong foundation in mathematical concepts.
 {style="text-align: justify;"}
